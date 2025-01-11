@@ -3,7 +3,7 @@ I have a passion for computers, football, and traveling. <br>Currently, I am del
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100028198477383) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hoang-le-83526530a/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/https://www.facebook.com/profile.php?id=100028198477383](https://www.facebook.com/hoang.con.393113/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hoang-le-83526530a/) 
 
 
 ## 🏆 GitHub Trophies
