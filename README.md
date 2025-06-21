@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a passion for computers, football, and traveling. <br>Currently, I am delving into AWS and expanding my knowledge in areas related to DevOps, and Machine Learning.<br><br>
+I have a passion for computers, football, and traveling. <br>Currently, I am delving into AWS and expanding my knowledge in areas related to IT<br><br>
 
 
 ## 🌐 Socials:
